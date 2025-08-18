@@ -242,6 +242,66 @@ body {
     display: block;
 }
 
+#cartItems {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 200px; /* Adjust this value as needed */
+    overflow-y: auto; /* Enable vertical scrolling */
+    margin-bottom: 10px;
+    
+    /* Apply scrollbar styling */
+    scrollbar-width: thin;
+    scrollbar-color: rgba(248, 168, 24, 0.8) rgba(25, 28, 33, 0.2);
+    padding-right: 3px;
+    box-sizing: border-box;
+}
+
+/* Scrollbar styles for Webkit browsers (Chrome, Safari) */
+#cartItems::-webkit-scrollbar {
+    width: 8px;
+}
+
+#cartItems::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    margin: 8px 0;
+}
+
+#cartItems::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, 
+        rgba(248, 168, 24, 0.9) 0%, 
+        rgba(248, 210, 100, 0.8) 100%);
+    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: inset 0 0 3px rgba(255, 255, 255, 0.2);
+}
+
+#cartItems::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, 
+        rgba(248, 180, 40, 1) 0%, 
+        rgba(248, 220, 120, 0.9) 100%);
+    box-shadow: 0 0 6px rgba(248, 168, 24, 0.6);
+}
+
+/* Smooth scrollbar appearance on hover */
+#cartItems {
+    scrollbar-color: transparent transparent;
+    transition: scrollbar-color 0.4s ease;
+}
+
+#cartItems:hover {
+    scrollbar-color: rgba(248, 168, 24, 0.8) rgba(25, 28, 33, 0.2);
+}
+
+#cartItems::-webkit-scrollbar-thumb {
+    opacity: 0.5;
+    transition: opacity 0.4s ease; /* Add transition for opacity */
+}
+
+#cartItems:hover::-webkit-scrollbar-thumb {
+    opacity: 1;
+}
 
 #checkoutBtn {
     margin-top: 10px;

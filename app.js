@@ -321,12 +321,17 @@ function adjustLayout() {
 // Initialize everything
 document.addEventListener("DOMContentLoaded", function() {
     initializePagination();
-    // setupSorting();
     adjustLayout();
     initTypeFilter();
     initAnimeFilter();
-    initSortFilter(); // Add this line
+    initSortFilter();
     
+    // Remove the 'hidden' class from cartModal here as it's now controlled by .show
+    const cartModalElement = document.getElementById("cartModal");
+    if (cartModalElement) {
+        cartModalElement.classList.remove("hidden"); // Ensure it's not permanently hidden by this class
+    }
+
     document.getElementById("closeCartModal")?.addEventListener("click", () => {
         cartModal.classList.remove("show");
     });
