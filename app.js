@@ -26,8 +26,6 @@ let filters = {
 // Function to apply sorting
 function applySorting() {
     if (filters.sort === 'none') {
-        // If no specific sort is selected, maintain the current filtered order
-        // (which is implicitly the initial order or order after filtering)
         return;
     }
 
@@ -36,7 +34,6 @@ function applySorting() {
         const bBtn = b.querySelector(".btn");
 
         if (!aBtn || !bBtn) {
-            // Handle cases where buttons might be missing, though they should exist
             return 0;
         }
 
@@ -57,7 +54,6 @@ function applySorting() {
         }
     });
 
-    // After sorting, reset to the first page and display
     currentPage = 1;
     showPage(currentPage);
     updatePaginationControls();
@@ -94,35 +90,22 @@ function showPage(page) {
     const start = (page - 1) * ITEMS_PER_PAGE;
     const end = start + ITEMS_PER_PAGE;
 
-    const container = document.querySelector(".inner"); // Get the container once
-    if (!container) return; // Defensive check
+    const container = document.querySelector(".inner");
+    if (!container) return;
 
-    // 1. Clear the current visible items from the container
-    container.innerHTML = ''; // This will remove all child elements
+    // Очищаем контейнер
+    container.innerHTML = '';
 
-    // 2. Get the items to show for the current page from the *sorted* filteredItems
+    // Получаем элементы для текущей страницы
     const itemsToShow = filteredItems.slice(start, end);
 
-    // 3. Append them to the container in their new order
+    // Добавляем элементы на страницу
     itemsToShow.forEach(item => {
-        item.style.display = ""; // Ensure they are visible
-        container.appendChild(item); // Re-append to the DOM
+        item.style.display = "";
+        container.appendChild(item);
     });
 
-    // Update current page
     currentPage = page;
-
-    // Optional: Preload the next page (if lazy loading is desired for performance)
-    if (page < Math.ceil(totalItems / ITEMS_PER_PAGE)) {
-        const nextPageStart = page * ITEMS_PER_PAGE;
-        const nextPageEnd = nextPageStart + ITEMS_PER_PAGE;
-        filteredItems.slice(nextPageStart, nextPageEnd).forEach(item => {
-            // You can add preloading content logic here if needed,
-            // but the main issue is re-appending for visual sort
-        });
-    }
-
-    // Update pagination controls after showing the page
     updatePaginationControls();
 }
 
