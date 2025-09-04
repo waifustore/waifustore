@@ -93,13 +93,9 @@ function showPage(page) {
     const container = document.querySelector(".inner");
     if (!container) return;
 
-    // Очищаем контейнер
     container.innerHTML = '';
-
-    // Получаем элементы для текущей страницы
     const itemsToShow = filteredItems.slice(start, end);
-
-    // Добавляем элементы на страницу
+    
     itemsToShow.forEach(item => {
         item.style.display = "";
         container.appendChild(item);
@@ -107,6 +103,9 @@ function showPage(page) {
 
     currentPage = page;
     updatePaginationControls();
+    
+    // Перезапускаем видео на новой странице
+    setTimeout(restartVideosOnPage, 100); // Небольшая задержка для гарантии
 }
 
 async function loadPageItems(page) {
@@ -682,3 +681,39 @@ window.addEventListener('scroll', () => {
     }
     lastScrollTop = currentScroll <= 0 ? 0 : currentScroll; // Это можно оставить, хотя в данном случае оно не влияет на логику показа/скрытия
 });
+
+
+
+document.querySelectorAll('.item img.img').forEach(img=>{
+  const src = img.getAttribute('src') || '';
+  if (!src.toLowerCase().endsWith('.mp4')) return;
+  const video = document.createElement('video');
+  video.className = img.className;
+  video.autoplay = true;
+  video.loop = true;
+  video.muted = true;
+  video.playsInline = true;
+  video.setAttribute('playsinline','');
+  video.setAttribute('webkit-playsinline','');
+  video.preload = 'auto';
+  const source = document.createElement('source');
+  source.src = src;
+  source.type = 'video/mp4';
+  video.appendChild(source);
+  img.parentNode.replaceChild(video, img);
+
+  // попытка запустить
+  video.addEventListener('loadedmetadata', ()=>{
+    video.muted = true;
+    video.play().catch(e => console.warn('play() prevented:', e));
+  });
+});
+
+function restartVideosOnPage() {
+    document.querySelectorAll('.item video').forEach(video => {
+        if (video.paused) {
+            video.currentTime = 0;
+            video.play().catch(e => console.warn('Video play prevented:', e));
+        }
+    });
+}
