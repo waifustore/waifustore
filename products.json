@@ -13041,7 +13041,7 @@
         "label": "Chel_5",
         "price": 40,
         "tags": [
-            "random"
+            "disney"
         ],
         "anime": "all",
         "img_src": "photos/Chel_5.webp",
@@ -22004,7 +22004,7 @@
         "label": "Chel_9",
         "price": 50,
         "tags": [
-            "random"
+            "disney"
         ],
         "anime": "all",
         "img_src": "photos/Chel_9.webp",
@@ -26074,5 +26074,317 @@
         ],
         "img_src": "photos/Yuuki_Asuna_2.webp",
         "caption": "Yuuki Asuna 2"
+    },
+    {
+        "id": "2541",
+        "label": "Astrid_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Astrid_3.webp",
+        "caption": "Astrid 3"
+    },
+    {
+        "id": "2542",
+        "label": "Astrid_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Astrid_4.webp",
+        "caption": "Astrid 4"
+    },
+    {
+        "id": "2543",
+        "label": "Astrid_5",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Astrid_5.webp",
+        "caption": "Astrid 5"
+    },
+    {
+        "id": "2544",
+        "label": "Astrid_6",
+        "price": 35,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Astrid_6.webp",
+        "caption": "Astrid 6"
+    },
+    {
+        "id": "2545",
+        "label": "Celia_Cumani_Aintree_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Celia_Cumani_Aintree_3.webp",
+        "caption": "Celia Cumani Aintree 3"
+    },
+    {
+        "id": "2546",
+        "label": "Celia_Cumani_Aintree_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Celia_Cumani_Aintree_4.webp",
+        "caption": "Celia Cumani Aintree 4"
+    },
+    {
+        "id": "2547",
+        "label": "Chel_10",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Chel_10.webp",
+        "caption": "Chel 10"
+    },
+    {
+        "id": "2548",
+        "label": "Chloe_Kuroinu_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Chloe_Kuroinu_3.webp",
+        "caption": "Chloe Kuroinu 3"
+    },
+    {
+        "id": "2549",
+        "label": "Chloe_Kuroinu_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Chloe_Kuroinu_4.webp",
+        "caption": "Chloe Kuroinu 4"
+    },
+    {
+        "id": "2550",
+        "label": "Chloe_Von_Einzbern",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Chloe_Von_Einzbern.webp",
+        "caption": "Chloe Von Einzbern"
+    },
+    {
+        "id": "2551",
+        "label": "Chrome_Dokuro",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Chrome_Dokuro.webp",
+        "caption": "Chrome Dokuro"
+    },
+    {
+        "id": "2552",
+        "label": "Chun_Li_12",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Chun_Li_12.webp",
+        "caption": "Chun Li 12"
+    },
+    {
+        "id": "2553",
+        "label": "Chun_Li_13",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Chun_Li_13.webp",
+        "caption": "Chun Li 13"
+    },
+    {
+        "id": "2554",
+        "label": "Chun_Li_14",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Chun_Li_14.webp",
+        "caption": "Chun Li 14"
+    },
+    {
+        "id": "2555",
+        "label": "Chun_Li_Fortnite",
+        "price": 40,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Chun_Li_Fortnite.webp",
+        "caption": "Chun Li Fortnite"
+    },
+    {
+        "id": "2556",
+        "label": "Cinderella_2",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Cinderella_2.webp",
+        "caption": "Cinderella 2"
+    },
+    {
+        "id": "2557",
+        "label": "D_Secret_Police_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/D_Secret_Police_2.webp",
+        "caption": "D Secret Police 2"
+    },
+    {
+        "id": "2558",
+        "label": "Daphne_6",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Daphne_6.webp",
+        "caption": "Daphne 6"
+    },
+    {
+        "id": "2559",
+        "label": "Daphne_7",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Daphne_7.webp",
+        "caption": "Daphne 7"
+    },
+    {
+        "id": "2560",
+        "label": "Darkness_KonoSuba_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Darkness_KonoSuba_2.webp",
+        "caption": "Darkness KonoSuba 2"
+    },
+    {
+        "id": "2561",
+        "label": "Dawn",
+        "price": 50,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Dawn.webp",
+        "caption": "Dawn"
+    },
+    {
+        "id": "2562",
+        "label": "Dawn_2",
+        "price": 50,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Dawn_2.webp",
+        "caption": "Dawn 2"
+    },
+    {
+        "id": "2563",
+        "label": "Dawn_3",
+        "price": 50,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Dawn_3.webp",
+        "caption": "Dawn 3"
+    },
+    {
+        "id": "2564",
+        "label": "Dawn_4",
+        "price": 45,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Dawn_4.webp",
+        "caption": "Dawn 4"
+    },
+    {
+        "id": "2565",
+        "label": "Debbie_Grayson",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Debbie_Grayson.webp",
+        "caption": "Debbie Grayson"
+    },
+    {
+        "id": "2566",
+        "label": "Dolores_Madrigal",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Dolores_Madrigal.webp",
+        "caption": "Dolores Madrigal"
+    },
+    {
+        "id": "2567",
+        "label": "Dragon_Maid",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Dragon_Maid.webp",
+        "caption": "Dragon Maid"
+    },
+    {
+        "id": "2568",
+        "label": "Pink_Delux_2",
+        "price": 40,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Pink_Delux_2.webp",
+        "caption": "Pink Delux 2"
+    },
+    {
+        "id": "2569",
+        "label": "Snow_White_8",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Snow_White_8.webp",
+        "caption": "Snow White 8"
+    },
+    {
+        "id": "2570",
+        "label": "Zelda_7",
+        "price": 15,
+        "anime": "zelda",
+        "tags": [],
+        "img_src": "photos/Zelda_7.webp",
+        "caption": "Zelda 7"
     }
 ]
