@@ -7214,7 +7214,7 @@
         "label": "Evelynn_KDA",
         "price": 45,
         "tags": [],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/Evelynn_KDA.webp",
         "caption": "Evelynn KDA"
     },
@@ -11599,10 +11599,8 @@
         "id": "1171",
         "label": "KDA_Evelynn_2",
         "price": 50,
-        "tags": [
-            "random"
-        ],
-        "anime": "all",
+        "tags": [],
+        "anime": "games",
         "img_src": "photos/KDA_Evelynn_2.webp",
         "caption": "KDA Evelynn 2"
     },
@@ -26386,5 +26384,307 @@
         "tags": [],
         "img_src": "photos/Zelda_7.webp",
         "caption": "Zelda 7"
+    },
+    {
+        "id": "2571",
+        "label": "Esil_Radiru_5",
+        "price": 25,
+        "anime": "sololeveling",
+        "tags": [],
+        "img_src": "photos/Esil_Radiru_5.webp",
+        "caption": "Esil Radiru 5"
+    },
+    {
+        "id": "2572",
+        "label": "Evelynn_LOL",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Evelynn_LOL.webp",
+        "caption": "Evelynn LOL"
+    },
+    {
+        "id": "2573",
+        "label": "Evelynn_LOL_2",
+        "price": 35,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Evelynn_LOL_2.webp",
+        "caption": "Evelynn LOL 2"
+    },
+    {
+        "id": "2574",
+        "label": "Faye_Valentine_5",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Faye_Valentine_5.webp",
+        "caption": "Faye Valentine 5"
+    },
+    {
+        "id": "2575",
+        "label": "Feet",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "legs"
+        ],
+        "img_src": "photos/Feet.webp",
+        "caption": "Feet"
+    },
+    {
+        "id": "2576",
+        "label": "Female_Rui_Takamizawa",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Female_Rui_Takamizawa.webp",
+        "caption": "Female Rui Takamizawa"
+    },
+    {
+        "id": "2577",
+        "label": "Fern_7",
+        "price": 50,
+        "anime": "frieren",
+        "tags": [],
+        "img_src": "photos/Fern_7.webp",
+        "caption": "Fern 7"
+    },
+    {
+        "id": "2578",
+        "label": "Fern_8",
+        "price": 50,
+        "anime": "frieren",
+        "tags": [],
+        "img_src": "photos/Fern_8.webp",
+        "caption": "Fern 8"
+    },
+    {
+        "id": "2579",
+        "label": "Forbidden_Library",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Forbidden_Library.webp",
+        "caption": "Forbidden Library"
+    },
+    {
+        "id": "2580",
+        "label": "Francine",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Francine.webp",
+        "caption": "Francine"
+    },
+    {
+        "id": "2581",
+        "label": "Frankie_Foster_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Frankie_Foster_4.webp",
+        "caption": "Frankie Foster 4"
+    },
+    {
+        "id": "2582",
+        "label": "Frieren_8",
+        "price": 50,
+        "anime": "frieren",
+        "tags": [],
+        "img_src": "photos/Frieren_8.webp",
+        "caption": "Frieren 8"
+    },
+    {
+        "id": "2583",
+        "label": "Ganyu_6",
+        "price": 20,
+        "anime": "genshinimpact",
+        "tags": [],
+        "img_src": "photos/Ganyu_6.webp",
+        "caption": "Ganyu 6"
+    },
+    {
+        "id": "2584",
+        "label": "Integra_x_Seras_Hellsing",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Integra_x_Seras_Hellsing.webp",
+        "caption": "Integra x Seras Hellsing"
+    },
+    {
+        "id": "2585",
+        "label": "Inugami_Korone_x_BBC",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Inugami_Korone_x_BBC.webp",
+        "caption": "Inugami Korone x BBC"
+    },
+    {
+        "id": "2586",
+        "label": "Invisigal_Dispatch",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Invisigal_Dispatch.webp",
+        "caption": "Invisigal Dispatch"
+    },
+    {
+        "id": "2587",
+        "label": "Irene_Belserion_3",
+        "price": 50,
+        "anime": "fairytail",
+        "tags": [],
+        "img_src": "photos/Irene_Belserion_3.webp",
+        "caption": "Irene Belserion 3"
+    },
+    {
+        "id": "2588",
+        "label": "Iris",
+        "price": 30,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Iris.webp",
+        "caption": "Iris"
+    },
+    {
+        "id": "2589",
+        "label": "Iris_Heart",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Iris_Heart.webp",
+        "caption": "Iris Heart"
+    },
+    {
+        "id": "2590",
+        "label": "Iris_Heart_2",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Iris_Heart_2.webp",
+        "caption": "Iris Heart 2"
+    },
+    {
+        "id": "2591",
+        "label": "Isabelle_Animal_Crossing",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "furry"
+        ],
+        "img_src": "photos/Isabelle_Animal_Crossing.webp",
+        "caption": "Isabelle Animal Crossing"
+    },
+    {
+        "id": "2592",
+        "label": "Itsuka_Kendo",
+        "price": 50,
+        "anime": "myheroacademia",
+        "tags": [],
+        "img_src": "photos/Itsuka_Kendo.webp",
+        "caption": "Itsuka Kendo"
+    },
+    {
+        "id": "2593",
+        "label": "Jane_Porter_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Jane_Porter_3.webp",
+        "caption": "Jane Porter 3"
+    },
+    {
+        "id": "2594",
+        "label": "Jean_Grey_Onsen_2",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Jean_Grey_Onsen_2.webp",
+        "caption": "Jean Grey Onsen 2"
+    },
+    {
+        "id": "2595",
+        "label": "Jinx_x_Joy",
+        "price": 15,
+        "anime": "arcane",
+        "tags": [],
+        "img_src": "photos/Jinx_x_Joy.webp",
+        "caption": "Jinx x Joy"
+    },
+    {
+        "id": "2596",
+        "label": "Kama_Fate_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Kama_Fate_3.webp",
+        "caption": "Kama Fate"
+    },
+    {
+        "id": "2597",
+        "label": "Orihime_10",
+        "price": 50,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Orihime_10.webp",
+        "caption": "Orihime 10"
+    },
+    {
+        "id": "2598",
+        "label": "Princess_Jasmine_4",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Princess_Jasmine_4.webp",
+        "caption": "Princess Jasmine 4"
+    },
+    {
+        "id": "2599",
+        "label": "Testarossa_Fate",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Testarossa_Fate.webp",
+        "caption": "Testarossa Fate"
+    },
+    {
+        "id": "2600",
+        "label": "Testarossa_Fate_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Testarossa_Fate_2.webp",
+        "caption": "Testarossa Fate 2"
     }
 ]
