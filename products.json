@@ -7575,7 +7575,7 @@
         "label": "Rumi",
         "price": 25,
         "tags": [],
-        "anime": "pokemon",
+        "anime": "all",
         "img_src": "photos/Rumi.webp",
         "caption": "Rumi"
     },
@@ -7824,7 +7824,7 @@
         "id": "812",
         "label": "Sue_Storm",
         "price": 50,
-        "tags": [],
+        "tags": ["cartoon"],
         "anime": "all",
         "img_src": "photos/Sue_Storm.webp",
         "caption": "Sue Storm"
@@ -8873,7 +8873,7 @@
         "label": "Rumi_2",
         "price": 50,
         "tags": [],
-        "anime": "pokemon",
+        "anime": "all",
         "img_src": "photos/Rumi_2.webp",
         "caption": "Rumi 2"
     },
@@ -9830,7 +9830,7 @@
         "label": "Sue_Storm_2",
         "price": 50,
         "tags": [
-            "random"
+            "cartoon"
         ],
         "anime": "all",
         "img_src": "photos/Sue_Storm_2.webp",
@@ -21024,7 +21024,7 @@
         "label": "Rumi_3",
         "price": 15,
         "tags": [],
-        "anime": "pokemon",
+        "anime": "all",
         "img_src": "photos/Rumi_3.webp",
         "caption": "Rumi 3"
     },
@@ -28475,5 +28475,313 @@
         "tags": [],
         "img_src": "photos/Zi_Ling_2.webp",
         "caption": "Zi Ling 2"
+    },
+    {
+        "id": "2781",
+        "label": "Inoue_Orihime_Gym",
+        "price": 20,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Inoue_Orihime_Gym.webp",
+        "caption": "Inoue Orihime Gym"
+    },
+    {
+        "id": "2782",
+        "label": "Jessica_Rabbit_7",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Jessica_Rabbit_7.webp",
+        "caption": "Jessica Rabbit 7"
+    },
+    {
+        "id": "2783",
+        "label": "Nyotengu_Dead_or_Alive",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Nyotengu_Dead_or_Alive.webp",
+        "caption": "Nyotengu Dead or Alive"
+    },
+    {
+        "id": "2784",
+        "label": "Ochaco_Uraraka_5",
+        "price": 50,
+        "anime": "myheroacademia",
+        "tags": [],
+        "img_src": "photos/Ochaco_Uraraka_5.webp",
+        "caption": "Ochaco Uraraka 5"
+    },
+    {
+        "id": "2785",
+        "label": "Ochako_Momo_Nejire_Tsuyu",
+        "price": 25,
+        "anime": "myheroacademia",
+        "tags": [],
+        "img_src": "photos/Ochako_Momo_Nejire_Tsuyu.webp",
+        "caption": "Ochako Momo Nejire Tsuyu"
+    },
+    {
+        "id": "2786",
+        "label": "Olga_Discordia_5",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "milf"
+        ],
+        "img_src": "photos/Olga_Discordia_5.webp",
+        "caption": "Olga Discordia 5"
+    },
+    {
+        "id": "2787",
+        "label": "Olga_Discordia_6",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "milf"
+        ],
+        "img_src": "photos/Olga_Discordia_6.webp",
+        "caption": "Olga Discordia 6"
+    },
+    {
+        "id": "2788",
+        "label": "Onyx",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Onyx.webp",
+        "caption": "Onyx"
+    },
+    {
+        "id": "2789",
+        "label": "Orihime_11",
+        "price": 50,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Orihime_11.webp",
+        "caption": "Orihime 11"
+    },
+    {
+        "id": "2790",
+        "label": "Orihime_12",
+        "price": 45,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Orihime_12.webp",
+        "caption": "Orihime 12"
+    },
+    {
+        "id": "2791",
+        "label": "Rio_Morales_SFW",
+        "price": 45,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Rio_Morales_SFW.webp",
+        "caption": "Rio Morales SFW"
+    },
+    {
+        "id": "2792",
+        "label": "Riruka_Dokugamine_3",
+        "price": 25,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Riruka_Dokugamine_3.webp",
+        "caption": "Riruka Dokugamine 3"
+    },
+    {
+        "id": "2793",
+        "label": "Riyo_Gachiakuta_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Riyo_Gachiakuta_2.webp",
+        "caption": "Riyo Gachiakuta 2"
+    },
+    {
+        "id": "2794",
+        "label": "Riyou_Gachiakuta",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Riyou_Gachiakuta.webp",
+        "caption": "Riyou Gachiakuta"
+    },
+    {
+        "id": "2795",
+        "label": "Rogue_Marvel",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Rogue_Marvel.webp",
+        "caption": "Rogue Marvel"
+    },
+    {
+        "id": "2796",
+        "label": "Rogue_Marvel_2",
+        "price": 40,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Rogue_Marvel_2.webp",
+        "caption": "Rogue Marvel 2"
+    },
+    {
+        "id": "2797",
+        "label": "Rogue_Marvel_3",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Rogue_Marvel_3.webp",
+        "caption": "Rogue Marvel 3"
+    },
+    {
+        "id": "2798",
+        "label": "Rory_Mercury",
+        "price": 35,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Rory_Mercury.webp",
+        "caption": "Rory Mercury"
+    },
+    {
+        "id": "2799",
+        "label": "Rossweisse_2",
+        "price": 50,
+        "anime": "dxd",
+        "tags": [],
+        "img_src": "photos/Rossweisse_2.webp",
+        "caption": "Rossweisse 2"
+    },
+    {
+        "id": "2800",
+        "label": "Rumi_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Rumi_4.webp",
+        "caption": "Rumi 4"
+    },
+    {
+        "id": "2801",
+        "label": "Sakura_6",
+        "price": 50,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Sakura_6.webp",
+        "caption": "Sakura 6"
+    },
+    {
+        "id": "2802",
+        "label": "Shuten_Douji_Fate",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Shuten_Douji_Fate.webp",
+        "caption": "Shuten Douji Fate"
+    },
+    {
+        "id": "2803",
+        "label": "Starfire_7",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Starfire_7.webp",
+        "caption": "Starfire 7"
+    },
+    {
+        "id": "2804",
+        "label": "Stella_Vermillion",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Stella_Vermillion.webp",
+        "caption": "Stella Vermillion"
+    },
+    {
+        "id": "2805",
+        "label": "Sue_Storm_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Sue_Storm_3.webp",
+        "caption": "Sue Storm 3"
+    },
+    {
+        "id": "2806",
+        "label": "Tier_Harribel",
+        "price": 15,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Tier_Harribel.webp",
+        "caption": "Tier Harribel"
+    },
+    {
+        "id": "2807",
+        "label": "Velvet_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Velvet_2.webp",
+        "caption": "Velvet 2"
+    },
+    {
+        "id": "2808",
+        "label": "Velvet_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Velvet_3.webp",
+        "caption": "Velvet 3"
+    },
+    {
+        "id": "2809",
+        "label": "Zelda_8",
+        "price": 50,
+        "anime": "zelda",
+        "tags": [],
+        "img_src": "photos/Zelda_8.webp",
+        "caption": "Zelda 8"
+    },
+    {
+        "id": "2810",
+        "label": "Zelda_9",
+        "price": 50,
+        "anime": "zelda",
+        "tags": [],
+        "img_src": "photos/Zelda_9.webp",
+        "caption": "Zelda 9"
     }
 ]
