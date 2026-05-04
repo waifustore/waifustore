@@ -12954,7 +12954,7 @@
         "tags": [
             "random"
         ],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/2B_11.webp",
         "caption": "2B 11"
     },
@@ -13610,7 +13610,7 @@
         "tags": [
             "random"
         ],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/2B_12.webp",
         "caption": "2B 12"
     },
@@ -15230,7 +15230,7 @@
         "tags": [
             "gif"
         ],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/2B_GIF.mp4",
         "caption": "2B Animated"
     },
@@ -16732,7 +16732,7 @@
         "tags": [
             "random"
         ],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/Yorha_2B.webp",
         "caption": "Yorha 2B"
     },
@@ -28783,5 +28783,297 @@
         "tags": [],
         "img_src": "photos/Zelda_9.webp",
         "caption": "Zelda 9"
+    },
+    {
+        "id": "2811",
+        "label": "2B_15",
+        "price": 35,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/2B_15.webp",
+        "caption": "2B 15"
+    },
+    {
+        "id": "2812",
+        "label": "Afrodita",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Afrodita.webp",
+        "caption": "Afrodita"
+    },
+    {
+        "id": "2813",
+        "label": "Big_Mellons_ Nuns",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Big_Mellons_ Nuns.webp",
+        "caption": "Big Mellons  Nuns"
+    },
+    {
+        "id": "2814",
+        "label": "Elsa_x_BBC",
+        "price": 30,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Elsa_x_BBC.webp",
+        "caption": "Elsa x BBC"
+    },
+    {
+        "id": "2815",
+        "label": "Harley_x_BBC",
+        "price": 35,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Harley_x_BBC.webp",
+        "caption": "Harley x BBC"
+    },
+    {
+        "id": "2816",
+        "label": "Hinata_13",
+        "price": 30,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Hinata_13.webp",
+        "caption": "Hinata 13"
+    },
+    {
+        "id": "2817",
+        "label": "Konan_6",
+        "price": 15,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Konan_6.webp",
+        "caption": "Konan 6"
+    },
+    {
+        "id": "2818",
+        "label": "Kurenai_Yuhi_5",
+        "price": 15,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Kurenai_Yuhi_5.webp",
+        "caption": "Kurenai Yuhi 5"
+    },
+    {
+        "id": "2819",
+        "label": "Lihua_Apothecary_Diaries",
+        "price": 40,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Lihua_Apothecary_Diaries.webp",
+        "caption": "Lihua Apothecary Diaries"
+    },
+    {
+        "id": "2820",
+        "label": "Loki_Hardcore",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Loki_Hardcore.webp",
+        "caption": "Loki Hardcore"
+    },
+    {
+        "id": "2821",
+        "label": "Lola_Bunny_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Lola_Bunny_4.webp",
+        "caption": "Lola Bunny 4"
+    },
+    {
+        "id": "2822",
+        "label": "Lucy_Xmas",
+        "price": 15,
+        "anime": "fairytail",
+        "tags": [],
+        "img_src": "photos/Lucy_Xmas.webp",
+        "caption": "Lucy Xmas"
+    },
+    {
+        "id": "2823",
+        "label": "Luna_Wright_Dr_Stone",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Luna_Wright_Dr_Stone.webp",
+        "caption": "Luna Wright Dr Stone"
+    },
+    {
+        "id": "2824",
+        "label": "Machi_Komachine_Hunter_x_Hunter",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Machi_Komachine_Hunter_x_Hunter.webp",
+        "caption": "Machi Komachine Hunter x Hunter"
+    },
+    {
+        "id": "2825",
+        "label": "Maki_Oze_5",
+        "price": 25,
+        "anime": "fireforce",
+        "tags": [],
+        "img_src": "photos/Maki_Oze_5.webp",
+        "caption": "Maki Oze 5"
+    },
+    {
+        "id": "2826",
+        "label": "Makima_16",
+        "price": 50,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Makima_16.webp",
+        "caption": "Makima 16"
+    },
+    {
+        "id": "2827",
+        "label": "Makima_17",
+        "price": 15,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Makima_17.webp",
+        "caption": "Makima 17"
+    },
+    {
+        "id": "2828",
+        "label": "Makima_18",
+        "price": 40,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Makima_18.webp",
+        "caption": "Makima 18"
+    },
+    {
+        "id": "2829",
+        "label": "Misty_2",
+        "price": 20,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Misty_2.webp",
+        "caption": "Misty 2"
+    },
+    {
+        "id": "2830",
+        "label": "Nobara_Kugisaki_6",
+        "price": 25,
+        "anime": "jujutsu",
+        "tags": [],
+        "img_src": "photos/Nobara_Kugisaki_6.webp",
+        "caption": "Nobara Kugisaki 6"
+    },
+    {
+        "id": "2831",
+        "label": "Queen_Marika_6",
+        "price": 25,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Queen_Marika_6.webp",
+        "caption": "Queen Marika 6"
+    },
+    {
+        "id": "2832",
+        "label": "Sylvanas_Windrunner_Warcraft",
+        "price": 5,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Sylvanas_Windrunner_Warcraft.webp",
+        "caption": "Sylvanas Windrunner Warcraft"
+    },
+    {
+        "id": "2833",
+        "label": "Ten_Ten_2",
+        "price": 15,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Ten_Ten_2.webp",
+        "caption": "Ten Ten 2"
+    },
+    {
+        "id": "2834",
+        "label": "Xenomorph_Queen_Aliens",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Xenomorph_Queen_Aliens.webp",
+        "caption": "Xenomorph Queen Aliens"
+    },
+    {
+        "id": "2835",
+        "label": "Yor_Briar_5",
+        "price": 20,
+        "anime": "spyfam",
+        "tags": [],
+        "img_src": "photos/Yor_Briar_5.webp",
+        "caption": "Yor Briar 5"
+    },
+    {
+        "id": "2836",
+        "label": "Yor_Briar_6",
+        "price": 35,
+        "anime": "spyfam",
+        "tags": [],
+        "img_src": "photos/Yor_Briar_6.webp",
+        "caption": "Yor Briar 6"
+    },
+    {
+        "id": "2837",
+        "label": "Yoruichi_Shihouin_4",
+        "price": 45,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Yoruichi_Shihouin_4.webp",
+        "caption": "Yoruichi Shihouin 4"
+    },
+    {
+        "id": "2838",
+        "label": "Yuki_Tsukumo_3",
+        "price": 25,
+        "anime": "jujutsu",
+        "tags": [],
+        "img_src": "photos/Yuki_Tsukumo_3.webp",
+        "caption": "Yuki Tsukumo 3"
+    },
+    {
+        "id": "2839",
+        "label": "Yun_Ying_art",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Yun_Ying_art.webp",
+        "caption": "Yun Ying art"
+    },
+    {
+        "id": "2840",
+        "label": "Zelda_10",
+        "price": 40,
+        "anime": "zelda",
+        "tags": [],
+        "img_src": "photos/Zelda_10.webp",
+        "caption": "Zelda 10"
     }
 ]
