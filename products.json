@@ -715,7 +715,7 @@
         "id": "72",
         "label": "Blackcat",
         "price": 20,
-        "tags": [],
+        "tags": ["catroon"],
         "anime": "all",
         "img_src": "photos/Blackcat.webp",
         "caption": "Blackcat"
@@ -9586,7 +9586,7 @@
         "label": "Elsa_Granhiert",
         "price": 50,
         "tags": [
-            "random"
+            "disney"
         ],
         "anime": "all",
         "img_src": "photos/Elsa_Granhiert.webp",
@@ -9993,7 +9993,7 @@
         "label": "Blackcat_2",
         "price": 40,
         "tags": [
-            "random"
+            "catroon"
         ],
         "anime": "all",
         "img_src": "photos/Blackcat_2.webp",
@@ -12564,7 +12564,7 @@
         "label": "Elsa_4K",
         "price": 20,
         "tags": [
-            "wallpapers"
+            "wallpapers", "disney"
         ],
         "anime": "all",
         "img_src": "photos/Elsa_4K.webp",
@@ -27075,7 +27075,7 @@
         "label": "Elsa_11",
         "price": 50,
         "anime": "all",
-        "tags": [],
+        "tags": ["disney"],
         "img_src": "photos/Elsa_11.webp",
         "caption": "Elsa 11"
     },
@@ -29075,5 +29075,197 @@
         "tags": [],
         "img_src": "photos/Zelda_10.webp",
         "caption": "Zelda 10"
+    },
+    {
+        "id": "2841",
+        "label": "Orihime_Inoue_3",
+        "price": 15,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Orihime_Inoue_3.webp",
+        "caption": "Orihime Inoue 3"
+    },
+    {
+        "id": "2842",
+        "label": "Pasan",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Pasan.webp",
+        "caption": "Pasan"
+    },
+    {
+        "id": "2843",
+        "label": "Power_11",
+        "price": 30,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Power_11.webp",
+        "caption": "Power 11"
+    },
+    {
+        "id": "2844",
+        "label": "Pyramid_Head_2",
+        "price": 5,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Pyramid_Head_2.webp",
+        "caption": "Pyramid Head 2"
+    },
+    {
+        "id": "2845",
+        "label": "Rangiku_Matsumoto_3",
+        "price": 20,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Rangiku_Matsumoto_3.webp",
+        "caption": "Rangiku Matsumoto 3"
+    },
+    {
+        "id": "2846",
+        "label": "Red_Witch",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Red_Witch.webp",
+        "caption": "Red Witch"
+    },
+    {
+        "id": "2847",
+        "label": "Sakura_Goth_2",
+        "price": 50,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Sakura_Goth_2.webp",
+        "caption": "Sakura Goth 2"
+    },
+    {
+        "id": "2848",
+        "label": "Uehara_Rin_3",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Uehara_Rin_3.webp",
+        "caption": "Uehara Rin 3"
+    },
+    {
+        "id": "2849",
+        "label": "Uta_5",
+        "price": 50,
+        "anime": "onepiece",
+        "tags": [],
+        "img_src": "photos/Uta_5.webp",
+        "caption": "Uta 5"
+    },
+    {
+        "id": "2850",
+        "label": "Vados_2",
+        "price": 25,
+        "anime": "dragonball",
+        "tags": [],
+        "img_src": "photos/Vados_2.webp",
+        "caption": "Vados 2"
+    },
+    {
+        "id": "2851",
+        "label": "Vados_3",
+        "price": 25,
+        "anime": "dragonball",
+        "tags": [],
+        "img_src": "photos/Vados_3.webp",
+        "caption": "Vados 3"
+    },
+    {
+        "id": "2852",
+        "label": "Vladilena_Milize_Lena",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Vladilena_Milize_Lena.webp",
+        "caption": "Vladilena Milize Lena"
+    },
+    {
+        "id": "2853",
+        "label": "Widowmaker_4",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Widowmaker_4.webp",
+        "caption": "Widowmaker 4"
+    },
+    {
+        "id": "2854",
+        "label": "Widowmaker_5",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Widowmaker_5.webp",
+        "caption": "Widowmaker 5"
+    },
+    {
+        "id": "2855",
+        "label": "Widowmaker_6",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Widowmaker_6.webp",
+        "caption": "Widowmaker 6"
+    },
+    {
+        "id": "2856",
+        "label": "Xenomorph_Queen_Aliens_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Xenomorph_Queen_Aliens_2.webp",
+        "caption": "Xenomorph Queen Aliens 2"
+    },
+    {
+        "id": "2857",
+        "label": "Yor_Forger_8",
+        "price": 20,
+        "anime": "spyfam",
+        "tags": [],
+        "img_src": "photos/Yor_Forger_8.webp",
+        "caption": "Yor Forger 8"
+    },
+    {
+        "id": "2858",
+        "label": "Zi_Ling_3",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Zi_Ling_3.webp",
+        "caption": "Zi Ling 3"
+    },
+    {
+        "id": "2859",
+        "label": "Zoey_KPop_Demon_Hunters_4",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Zoey_KPop_Demon_Hunters_4.webp",
+        "caption": "Zoey KPop Demon Hunters 4"
+    },
+    {
+        "id": "2860",
+        "label": "Zombie_Genshin_Impact",
+        "price": 30,
+        "anime": "genshinimpact",
+        "tags": [],
+        "img_src": "photos/Zombie_Genshin_Impact.webp",
+        "caption": "Zombie Genshin Impact"
     }
 ]
