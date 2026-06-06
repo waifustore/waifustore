@@ -346,7 +346,7 @@
         "tags": [
             "random"
         ],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/Seraphine.webp",
         "caption": "Seraphine"
     },
@@ -20543,7 +20543,7 @@
         "tags": [
             "random"
         ],
-        "anime": "all",
+        "anime": "games",
         "img_src": "photos/Seraphine_2.webp",
         "caption": "Seraphine 2"
     },
@@ -29663,5 +29663,211 @@
         ],
         "img_src": "photos/Rui_Kisugi.webp",
         "caption": "Rui Kisugi"
+    },
+    {
+        "id": "2901",
+        "label": "Black_Lagoon_Revy_2",
+        "price": 40,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Black_Lagoon_Revy_2.webp",
+        "caption": "Black Lagoon Revy 2"
+    },
+    {
+        "id": "2902",
+        "label": "Futa_Delux",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Futa_Delux.webp",
+        "caption": "Futa Delux"
+    },
+    {
+        "id": "2903",
+        "label": "Kurisu_Makise_07th_Expansion",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Kurisu_Makise_07th_Expansion.webp",
+        "caption": "Kurisu Makise 07th Expansion"
+    },
+    {
+        "id": "2904",
+        "label": "Laufen_Frieren_3",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "randoms"
+        ],
+        "img_src": "photos/Laufen_Frieren_3.webp",
+        "caption": "Laufen Frieren 3"
+    },
+    {
+        "id": "2905",
+        "label": "Matoi_Ryuuko_8",
+        "price": 40,
+        "anime": "killlakill",
+        "tags": [],
+        "img_src": "photos/Matoi_Ryuuko_8.webp",
+        "caption": "Matoi Ryuuko 8"
+    },
+    {
+        "id": "2906",
+        "label": "Misuzu_Gundou",
+        "price": 10,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Misuzu_Gundou.webp",
+        "caption": "Misuzu Gundou"
+    },
+    {
+        "id": "2907",
+        "label": "Mitsuru_Kirijo",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Mitsuru_Kirijo.webp",
+        "caption": "Mitsuru Kirijo"
+    },
+    {
+        "id": "2908",
+        "label": "Mix_Pack",
+        "price": 30,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Mix_Pack.webp",
+        "caption": "Mix Pack"
+    },
+    {
+        "id": "2909",
+        "label": "Mixpack_Halloween",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Mixpack_Halloween.webp",
+        "caption": "Mixpack Halloween"
+    },
+    {
+        "id": "2910",
+        "label": "Momo_x_Aira",
+        "price": 10,
+        "anime": "dandadan",
+        "tags": [],
+        "img_src": "photos/Momo_x_Aira.webp",
+        "caption": "Momo x Aira"
+    },
+    {
+        "id": "2911",
+        "label": "Mountain",
+        "price": 5,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Mountain.webp",
+        "caption": "Mountain"
+    },
+    {
+        "id": "2912",
+        "label": "Rem_ReZero_4",
+        "price": 40,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Rem_ReZero_4.webp",
+        "caption": "Rem ReZero 4"
+    },
+    {
+        "id": "2913",
+        "label": "Reze_5",
+        "price": 25,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Reze_5.webp",
+        "caption": "Reze 5"
+    },
+    {
+        "id": "2914",
+        "label": "Rogue_Ev_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Rogue_Ev_2.webp",
+        "caption": "Rogue Ev 2"
+    },
+    {
+        "id": "2915",
+        "label": "Roxanne",
+        "price": 40,
+        "anime": "all",
+        "tags": [
+            "furry"
+        ],
+        "img_src": "photos/Roxanne.webp",
+        "caption": "Roxanne"
+    },
+    {
+        "id": "2916",
+        "label": "Sam_Manson_Danny_Phantom",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Sam_Manson_Danny_Phantom.webp",
+        "caption": "Sam Manson Danny Phantom"
+    },
+    {
+        "id": "2917",
+        "label": "Sarada_10",
+        "price": 25,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Sarada_10.webp",
+        "caption": "Sarada 10"
+    },
+    {
+        "id": "2918",
+        "label": "Seraphine_LoL",
+        "price": 10,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Seraphine_LoL.webp",
+        "caption": "Seraphine LoL"
+    },
+    {
+        "id": "2919",
+        "label": "Suki_3",
+        "price": 40,
+        "anime": "avatar",
+        "tags": [],
+        "img_src": "photos/Suki_3.webp",
+        "caption": "Suki 3"
+    },
+    {
+        "id": "2920",
+        "label": "Suki_5",
+        "price": 35,
+        "anime": "avatar",
+        "tags": [],
+        "img_src": "photos/Suki_4.webp",
+        "caption": "Suki 4"
     }
 ]
