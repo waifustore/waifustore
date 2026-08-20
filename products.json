@@ -3158,7 +3158,7 @@
         "label": "Shizuka_Marikawa",
         "price": 50,
         "tags": [],
-        "anime": "all",
+        "anime": "dxd",
         "img_src": "photos/Shizuka_Marikawa.webp",
         "caption": "Shizuka Marikawa"
     },
@@ -8900,7 +8900,7 @@
         "label": "Shizuka_Marikawa_2",
         "price": 45,
         "tags": [],
-        "anime": "all",
+        "anime": "dxd",
         "img_src": "photos/Shizuka_Marikawa_2.webp",
         "caption": "Shizuka Marikawa 2"
     },
@@ -25830,7 +25830,7 @@
         "id": "2515",
         "label": "Atago_Azur_Lane",
         "price": 50,
-        "anime": "all",
+        "anime": "games",
         "tags": [
             "random"
         ],
@@ -27165,7 +27165,7 @@
         "id": "2648",
         "label": "Konan_5",
         "price": 50,
-        "anime": "all",
+        "anime": "naruto",
         "tags": [],
         "img_src": "photos/Konan_5.webp",
         "caption": "Konan 5"
@@ -30136,7 +30136,7 @@
         "id": "2950",
         "label": "Nami_Delux",
         "price": 25,
-        "anime": "all",
+        "anime": "onepiece",
         "tags": [],
         "img_src": "photos/Nami_Delux.webp",
         "caption": "Nami Delux"
@@ -30846,5 +30846,305 @@
         "tags": [],
         "img_src": "photos/Zhu_Yuan_2.webp",
         "caption": "Zhu Yuan 2"
+    },
+    {
+        "id": "3021",
+        "label": "Akeno_Himejima_2",
+        "price": 20,
+        "anime": "dxd",
+        "tags": [],
+        "img_src": "photos/Akeno_Himejima_2.webp",
+        "caption": "Akeno Himejima 2"
+    },
+    {
+        "id": "3022",
+        "label": "Alexia_Midgar_2",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Alexia_Midgar_2.webp",
+        "caption": "Alexia Midgar 2"
+    },
+    {
+        "id": "3023",
+        "label": "Arlecchino_3",
+        "price": 15,
+        "anime": "genshinimpact",
+        "tags": [],
+        "img_src": "photos/Arlecchino_3.webp",
+        "caption": "Arlecchino 3"
+    },
+    {
+        "id": "3024",
+        "label": "Atago_Azur_Lane_2",
+        "price": 20,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Atago_Azur_Lane_2.webp",
+        "caption": "Atago Azur Lane 2"
+    },
+    {
+        "id": "3025",
+        "label": "Bay_NIKKIE_4",
+        "price": 45,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Bay_NIKKIE_4.webp",
+        "caption": "Bay NIKKIE 4"
+    },
+    {
+        "id": "3026",
+        "label": "Belle_4",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Belle_4.webp",
+        "caption": "Belle 4"
+    },
+    {
+        "id": "3027",
+        "label": "Camie_Utsushimi_2",
+        "price": 15,
+        "anime": "myheroacademia",
+        "tags": [],
+        "img_src": "photos/Camie_Utsushimi_2.webp",
+        "caption": "Camie Utsushimi 2"
+    },
+    {
+        "id": "3028",
+        "label": "Celica_Arfonia",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Celica_Arfonia.webp",
+        "caption": "Celica Arfonia"
+    },
+    {
+        "id": "3029",
+        "label": "Fujiko_Mine_x_BBC",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Fujiko_Mine_x_BBC.webp",
+        "caption": "Fujiko Mine x BBC"
+    },
+    {
+        "id": "3030",
+        "label": "Igawa_Asagi_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Igawa_Asagi_3.webp",
+        "caption": "Igawa Asagi 3"
+    },
+    {
+        "id": "3031",
+        "label": "Jessie_7",
+        "price": 15,
+        "anime": "pokemon",
+        "tags": [],
+        "img_src": "photos/Jessie_7.webp",
+        "caption": "Jessie 7"
+    },
+    {
+        "id": "3032",
+        "label": "Judy_Alvarez_3",
+        "price": 25,
+        "anime": "cyberpunk",
+        "tags": [],
+        "img_src": "photos/Judy_Alvarez_3.webp",
+        "caption": "Judy Alvarez 3"
+    },
+    {
+        "id": "3033",
+        "label": "Katara_4",
+        "price": 45,
+        "anime": "avatar",
+        "tags": [],
+        "img_src": "photos/Katara_4.webp",
+        "caption": "Katara 4"
+    },
+    {
+        "id": "3034",
+        "label": "Kikoru_Shinomiya_3",
+        "price": 5,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Kikoru_Shinomiya_3.webp",
+        "caption": "Kikoru Shinomiya 3"
+    },
+    {
+        "id": "3035",
+        "label": "Konan_Club",
+        "price": 15,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Konan_Club.webp",
+        "caption": "Konan Club"
+    },
+    {
+        "id": "3036",
+        "label": "Kushina_x_BBC",
+        "price": 50,
+        "anime": "naruto",
+        "tags": [],
+        "img_src": "photos/Kushina_x_BBC.webp",
+        "caption": "Kushina x BBC"
+    },
+    {
+        "id": "3037",
+        "label": "Marine_Houshou",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Marine_Houshou.webp",
+        "caption": "Marine Houshou"
+    },
+    {
+        "id": "3038",
+        "label": "Medaka_Kurokami",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Medaka_Kurokami.webp",
+        "caption": "Medaka Kurokami"
+    },
+    {
+        "id": "3039",
+        "label": "Mei_Mei_4",
+        "price": 20,
+        "anime": "jujutsu",
+        "tags": [],
+        "img_src": "photos/Mei_Mei_4.webp",
+        "caption": "Mei Mei 4"
+    },
+    {
+        "id": "3040",
+        "label": "Nami_19",
+        "price": 15,
+        "anime": "onepiece",
+        "tags": [],
+        "img_src": "photos/Nami_19.webp",
+        "caption": "Nami 19"
+    },
+    {
+        "id": "3041",
+        "label": "Raven_7",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Raven_7.webp",
+        "caption": "Raven 7"
+    },
+    {
+        "id": "3042",
+        "label": "Shizuka_Marikawa_3",
+        "price": 50,
+        "anime": "dxd",
+        "tags": [],
+        "img_src": "photos/Shizuka_Marikawa_3.webp",
+        "caption": "Shizuka Marikawa 3"
+    },
+    {
+        "id": "3043",
+        "label": "Soifon_x_Rangiku_Futa",
+        "price": 35,
+        "anime": "bleach",
+        "tags": [
+            "futa"
+        ],
+        "img_src": "photos/Soifon_x_Rangiku_Futa.webp",
+        "caption": "Soifon x Rangiku Futa"
+    },
+    {
+        "id": "3044",
+        "label": "Sophie",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Sophie.webp",
+        "caption": "Sophie"
+    },
+    {
+        "id": "3045",
+        "label": "Symboli_Rudolf",
+        "price": 30,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Symboli_Rudolf.webp",
+        "caption": "Symboli Rudolf"
+    },
+    {
+        "id": "3046",
+        "label": "TraChan",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/TraChan.webp",
+        "caption": "TraChan"
+    },
+    {
+        "id": "3047",
+        "label": "Velma_5",
+        "price": 20,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Velma_5.webp",
+        "caption": "Velma 5"
+    },
+    {
+        "id": "3048",
+        "label": "Yor_Forger_9",
+        "price": 45,
+        "anime": "spyfam",
+        "tags": [],
+        "img_src": "photos/Yor_Forger_9.webp",
+        "caption": "Yor Forger 9"
+    },
+    {
+        "id": "3049",
+        "label": "Yoruichi_7",
+        "price": 20,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Yoruichi_7.webp",
+        "caption": "Yoruichi 7"
+    },
+    {
+        "id": "3050",
+        "label": "Yumiko_Kimura_2",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "milf"
+        ],
+        "img_src": "photos/Yumiko_Kimura_2.webp",
+        "caption": "Yumiko Kimura 2"
     }
 ]
