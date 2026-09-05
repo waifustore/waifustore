@@ -31151,9 +31151,10 @@
         "id": "3051",
         "label": "2B_Wallpapers_HD",
         "price": 10,
-        "anime": "all",
+        "anime": "games",
         "tags": [
-            "wallpapers"
+            "wallpapers",
+            "games"
         ],
         "img_src": "photos/2B_Wallpapers_HD.webp",
         "caption": "2B Wallpapers HD"
@@ -31226,7 +31227,7 @@
         "id": "3058",
         "label": "Hoshimi_Miyabi_ZZZ_Wallpapers_HD",
         "price": 20,
-        "anime": "all",
+        "anime": "zzz",
         "tags": [
             "wallpapers"
         ],
@@ -31362,5 +31363,187 @@
         ],
         "img_src": "photos/Synthia_Wallpapers_HD.webp",
         "caption": "Synthia Wallpapers HD"
+    },
+    {
+        "id": "3071",
+        "label": "2B_Comix_Art",
+        "price": 25,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/2B_Comix_Art.webp",
+        "caption": "2B Comix Art"
+    },
+    {
+        "id": "3072",
+        "label": "Bleach_Comix_Art",
+        "price": 15,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Bleach_Comix_Art.webp",
+        "caption": "Bleach Comix Art"
+    },
+    {
+        "id": "3073",
+        "label": "Boa_X_Marines",
+        "price": 50,
+        "anime": "onepiece",
+        "tags": [],
+        "img_src": "photos/Boa_X_Marines.webp",
+        "caption": "Boa X Marines"
+    },
+    {
+        "id": "3074",
+        "label": "Chun_Li_Comix_Art",
+        "price": 15,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Chun_Li_Comix_Art.webp",
+        "caption": "Chun Li Comix Art"
+    },
+    {
+        "id": "3075",
+        "label": "Cyberpunk_Comix_Art",
+        "price": 15,
+        "anime": "cyberpunk",
+        "tags": [],
+        "img_src": "photos/Cyberpunk_Comix_Art.webp",
+        "caption": "Cyberpunk Comix Art"
+    },
+    {
+        "id": "3076",
+        "label": "Dragon_Balls_Comix_Art",
+        "price": 45,
+        "anime": "dragonball",
+        "tags": [],
+        "img_src": "photos/Dragon_Balls_Comix_Art.webp",
+        "caption": "Dragon Balls Comix Art"
+    },
+    {
+        "id": "3077",
+        "label": "Frieren_Comix_Art",
+        "price": 5,
+        "anime": "random",
+        "tags": [],
+        "img_src": "photos/Frieren_Comix_Art.webp",
+        "caption": "Frieren Comix Art"
+    },
+    {
+        "id": "3078",
+        "label": "Grace_Ashcroft_Resident_Evil",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Grace_Ashcroft_Resident_Evil.webp",
+        "caption": "Grace Ashcroft Resident Evil"
+    },
+    {
+        "id": "3079",
+        "label": "Makima_Comix_Art",
+        "price": 15,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Makima_Comix_Art.webp",
+        "caption": "Makima Comix Art"
+    },
+    {
+        "id": "3080",
+        "label": "Mikasa_13",
+        "price": 25,
+        "anime": "titanattack",
+        "tags": [],
+        "img_src": "photos/Mikasa_13.webp",
+        "caption": "Mikasa 13"
+    },
+    {
+        "id": "3081",
+        "label": "One_Piece_Comix_Art",
+        "price": 10,
+        "anime": "onepiece",
+        "tags": [],
+        "img_src": "photos/One_Piece_Comix_Art.webp",
+        "caption": "One Piece Comix Art"
+    },
+    {
+        "id": "3082",
+        "label": "Onepunchman_Comix_Art",
+        "price": 10,
+        "anime": "onepunchman",
+        "tags": [],
+        "img_src": "photos/Onepunchman_Comix_Art.webp",
+        "caption": "Onepunchman Comix Art"
+    },
+    {
+        "id": "3083",
+        "label": "Power_Comix_Art",
+        "price": 10,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Power_Comix_Art.webp",
+        "caption": "Power Comix Art"
+    },
+    {
+        "id": "3084",
+        "label": "Random_Comix_Art",
+        "price": 50,
+        "anime": "random",
+        "tags": [],
+        "img_src": "photos/Random_Comix_Art.webp",
+        "caption": "Random Comix Art"
+    },
+    {
+        "id": "3085",
+        "label": "Random_Comix_Art_2",
+        "price": 50,
+        "anime": "random",
+        "tags": [],
+        "img_src": "photos/Random_Comix_Art_2.webp",
+        "caption": "Random Comix Art 2"
+    },
+    {
+        "id": "3086",
+        "label": "Random_Comix_Art_3",
+        "price": 50,
+        "anime": "random",
+        "tags": [],
+        "img_src": "photos/Random_Comix_Art_3.webp",
+        "caption": "Random Comix Art 3"
+    },
+    {
+        "id": "3087",
+        "label": "Shalltear_Bloodfallen_2",
+        "price": 15,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Shalltear_Bloodfallen_2.webp",
+        "caption": "Shalltear Bloodfallen 2"
+    },
+    {
+        "id": "3088",
+        "label": "Yor_Forger_10",
+        "price": 25,
+        "anime": "spyfam",
+        "tags": [],
+        "img_src": "photos/Yor_Forger_10.webp",
+        "caption": "Yor Forger 10"
+    },
+    {
+        "id": "3089",
+        "label": "Your_Comix_Art",
+        "price": 15,
+        "anime": "spyfam",
+        "tags": [],
+        "img_src": "photos/Your_Comix_Art.webp",
+        "caption": "Your Comix Art"
+    },
+    {
+        "id": "3090",
+        "label": "Zylor",
+        "price": 40,
+        "anime": "onepiece",
+        "tags": [],
+        "img_src": "photos/Zylor.webp",
+        "caption": "Zylor"
     }
 ]
