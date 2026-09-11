@@ -26777,10 +26777,8 @@
         "id": "2608",
         "label": "Esil_Radiru_6",
         "price": 50,
-        "anime": "all",
-        "tags": [
-            "sololeveling"
-        ],
+        "anime": "sololeveling",
+        "tags": [],
         "img_src": "photos/Esil_Radiru_6.webp",
         "caption": "Esil Radiru 6"
     },
@@ -27174,7 +27172,7 @@
         "id": "2649",
         "label": "Kora_3",
         "price": 20,
-        "anime": "all",
+        "anime": "avatar",
         "tags": [],
         "img_src": "photos/Kora_3.webp",
         "caption": "Kora 3"
@@ -31545,5 +31543,197 @@
         "tags": [],
         "img_src": "photos/Zylor.webp",
         "caption": "Zylor"
+    },
+    {
+        "id": "3091",
+        "label": "Aurora_5",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Aurora_5.webp",
+        "caption": "Aurora 5"
+    },
+    {
+        "id": "3092",
+        "label": "Chun_Li_15",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Chun_Li_15.webp",
+        "caption": "Chun Li 15"
+    },
+    {
+        "id": "3093",
+        "label": "Ciri_6",
+        "price": 50,
+        "anime": "witcher",
+        "tags": [],
+        "img_src": "photos/Ciri_6.webp",
+        "caption": "Ciri 6"
+    },
+    {
+        "id": "3094",
+        "label": "Debbie_Grayson_1",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Debbie_Grayson_1.webp",
+        "caption": "Debbie Grayson 1"
+    },
+    {
+        "id": "3095",
+        "label": "Ember_McLain_Danny_Phantom",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "cartoon"
+        ],
+        "img_src": "photos/Ember_McLain_Danny_Phantom.webp",
+        "caption": "Ember McLain Danny Phantom"
+    },
+    {
+        "id": "3096",
+        "label": "Esil_Radiru_7",
+        "price": 50,
+        "anime": "sololeveling",
+        "tags": [],
+        "img_src": "photos/Esil_Radiru_7.webp",
+        "caption": "Esil Radiru 7"
+    },
+    {
+        "id": "3097",
+        "label": "Gwen_1",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Gwen_1.webp",
+        "caption": "Gwen 1"
+    },
+    {
+        "id": "3098",
+        "label": "Hermione_3",
+        "price": 50,
+        "anime": "all",
+        "tags": [],
+        "img_src": "photos/Hermione_3.webp",
+        "caption": "Hermione 3"
+    },
+    {
+        "id": "3099",
+        "label": "Himeno_7",
+        "price": 50,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Himeno_7.webp",
+        "caption": "Himeno 7"
+    },
+    {
+        "id": "3100",
+        "label": "Himeno_8",
+        "price": 50,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Himeno_8.webp",
+        "caption": "Himeno 8"
+    },
+    {
+        "id": "3101",
+        "label": "Himeno_9",
+        "price": 25,
+        "anime": "chainsawman",
+        "tags": [],
+        "img_src": "photos/Himeno_9.webp",
+        "caption": "Himeno 9"
+    },
+    {
+        "id": "3102",
+        "label": "Himeno_Kyuuketsuki",
+        "price": 20,
+        "anime": "all",
+        "tags": [],
+        "img_src": "photos/Himeno_Kyuuketsuki.webp",
+        "caption": "Himeno Kyuuketsuki"
+    },
+    {
+        "id": "3103",
+        "label": "Jessica_Rabbit_8",
+        "price": 50,
+        "anime": "all",
+        "tags": [
+            "disney"
+        ],
+        "img_src": "photos/Jessica_Rabbit_8.webp",
+        "caption": "Jessica Rabbit 8"
+    },
+    {
+        "id": "3104",
+        "label": "Katsuragi_3",
+        "price": 25,
+        "anime": "all",
+        "tags": [
+            "random"
+        ],
+        "img_src": "photos/Katsuragi_3.webp",
+        "caption": "Katsuragi 3"
+    },
+    {
+        "id": "3105",
+        "label": "Korra_4",
+        "price": 50,
+        "anime": "avatar",
+        "tags": [],
+        "img_src": "photos/Korra_4.webp",
+        "caption": "Korra 4"
+    },
+    {
+        "id": "3106",
+        "label": "Morrigan_1",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Morrigan_1.webp",
+        "caption": "Morrigan 1"
+    },
+    {
+        "id": "3107",
+        "label": "Neriisa_Ravencroft_Feeding",
+        "price": 50,
+        "anime": "random",
+        "tags": [],
+        "img_src": "photos/Neriisa_Ravencroft_Feeding.webp",
+        "caption": "Neriisa Ravencroft Feeding"
+    },
+    {
+        "id": "3108",
+        "label": "Sandrone",
+        "price": 50,
+        "anime": "genshinimpact",
+        "tags": [],
+        "img_src": "photos/Sandrone.webp",
+        "caption": "Sandrone"
+    },
+    {
+        "id": "3109",
+        "label": "Sylvanas_Windrunner_Warcraft_1",
+        "price": 50,
+        "anime": "games",
+        "tags": [],
+        "img_src": "photos/Sylvanas_Windrunner_Warcraft_1.webp",
+        "caption": "Sylvanas Windrunner Warcraft 1"
+    },
+    {
+        "id": "3110",
+        "label": "Yoruichi_8",
+        "price": 50,
+        "anime": "bleach",
+        "tags": [],
+        "img_src": "photos/Yoruichi_8.webp",
+        "caption": "Yoruichi 8"
     }
 ]
